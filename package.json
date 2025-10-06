@@ -1,0 +1,22 @@
+{
+  "name": "playwright2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diepbh-2305/dieptest_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diepbh-2305/dieptest_repo/issues"
+  },
+  "homepage": "https://github.com/diepbh-2305/dieptest_repo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.7.0"
+  }
+}
