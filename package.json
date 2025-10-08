@@ -16,7 +16,10 @@
   },
   "homepage": "https://github.com/diepbh-2305/dieptest_repo#readme",
   "devDependencies": {
-    "@playwright/test": "^1.55.1",
+    "@playwright/test": "^1.56.0",
     "@types/node": "^24.7.0"
+  },
+  "directories": {
+    "test": "tests"
   }
 }
